@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dharshana Flower Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>🌸 Dharshana Flower Shop 🌸</h1>
+
+    <p>Fresh Flowers for Every Occasion!</p>
+
+    <h2>Our Flowers</h2>
+
+    <h3>Jasmine (Malligai)</h3>
+    <p>Price: ₹200</p>
+
+    <h3>Rose</h3>
+    <p>Price: ₹150</p>
+
+    <h3>Lotus</h3>
+    <p>Price: ₹100</p>
+
+    <button>Order Now</button>
+
+</body>
+</html>
